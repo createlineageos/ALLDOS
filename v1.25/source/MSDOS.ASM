@@ -260,7 +260,7 @@ HEADER  DB      13,10,"MS-DOS version 1.25"
         ENDIF
 
         DB      13,10
-        DB      "Copyright 1981,82 Microsoft, Inc.",13,10,"$"
+        DB      "© ALLDOS 1.0 2025",13,10,"$"
         ENDIF
 
 QUIT:
